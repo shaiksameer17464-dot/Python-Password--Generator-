@@ -1,0 +1,14 @@
+# Python Password Generator - Requirements
+# 
+# This project uses only built-in Python modules.
+# No external packages need to be installed via pip.
+#
+# Required Python version: 3.x
+#
+# Built-in modules used:
+# - random (for password generation)
+# - tkinter (for GUI)
+#
+# Note: tkinter comes pre-installed with Python on most systems.
+# If tkinter is not available on Linux, install it using:
+# sudo apt-get install python3-tkinter
